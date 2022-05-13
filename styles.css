@@ -1,0 +1,285 @@
+.outer {
+  width: 96px;
+  height: 96px;
+  background-color: #D4CEAF69;
+  border-radius: 100px;
+}
+
+.bg {
+  width: 100px;
+  height: 100px;
+  background: transparent;
+  background-image: url("data:image/svg+xml,%3csvg width='100%25' height='100%25' xmlns='http://www.w3.org/2000/svg'%3e%3crect width='100%25' height='100%25' fill='none' rx='100' ry='100' stroke='%23601279FF' stroke-width='4' stroke-dasharray='5%25%2c 8' stroke-dashoffset='84' stroke-linecap='square'/%3e%3c/svg%3e");
+  border-radius: 100px;
+  position: relative;
+  top: -2px;
+  right: 2px;
+  /* background-color: black; */
+  /* border-radius: 100%; */
+  /* border: dashed 4px purple; */
+  background-clip: padding-box;
+  /* position: relative; */
+  /* padding: 0; */
+}
+
+.text1-inner {
+  width: 50px;
+  height: 30px;
+  border-radius: 15px;
+  -moz-border-radius: 15px;
+  -webkit-border-radius: 15px;
+
+}
+.price-inner {
+  color: #601279;
+  position: absolute;
+  top: 33%;
+  left: 17%;
+  font-size: 1.75em;
+  font-weight: 600;
+  padding: 0;
+}
+.text2-inner {
+  font-size: .75em;
+  color: #601279;
+  position: absolute;
+  top: 69%;
+  left: 20%;
+  border-radius: 5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+}
+
+#text1>span[class^=w]:nth-of-type(n+0), #text2>span[class^=w]:nth-of-type(n+0){
+					 display: block;
+					 position: absolute;
+          -moz-transform-origin:50% 100%;
+					 -webkit-transform-origin:50% 100%;
+					 -o-transform-origin:50% 100%;
+					 -ms-transform-origin:50% 100%;
+					 transform-origin:50% 100%;
+}
+
+#text1 span, #text2 span {
+  color: #601279;
+  font-size: .7em;
+  overflow: visible;
+  padding: 0;
+  line-height: 0.5;
+}
+
+#text1 .w13 {
+					 -moz-transform: rotate(-.34rad);
+					 -webkit-transform: rotate(-.34rad);
+					 -o-transform: rotate(-.34rad);
+					 -ms-transform: rotate(-.34rad);
+					 transform: rotate(-.34rad);
+           width: 21px;
+					 height: 24px;
+					 left: 35px;
+					 top: 10px;
+}
+
+#text1 .w14 {
+					 -moz-transform: rotate(.34rad);
+					 -webkit-transform: rotate(.34rad);
+					 -o-transform: rotate(.34rad);
+					 -ms-transform: rotate(.34rad);
+					 transform: rotate(.34rad);
+           width: 21px;
+					 height: 24px;
+					 left: 35px;
+					 top: 10px;
+}
+#text1 .w0 {
+					 -moz-transform: rotate(-.34rad);
+					 -webkit-transform: rotate(-.34rad);
+					 -o-transform: rotate(-.34rad);
+					 -ms-transform: rotate(-.34rad);
+					 transform: rotate(-.34rad);
+           width: 21px;
+					 height: 24px;
+					 left: 40px;
+					 top: 12px;
+}
+
+#text1 .w1 {
+					 -moz-transform: rotate(-0.14rad);
+					 -webkit-transform: rotate(-0.14rad);
+					 -o-transform: rotate(-0.14rad);
+					 -ms-transform: rotate(-0.14rad);
+					 transform: rotate(-0.14rad);
+           width: 21px;
+					 height: 24px;
+					 left: 46px;
+					 top: 12px;
+}
+
+#text1 .w2 {
+					 -moz-transform: rotate(.14rad);
+					 -webkit-transform: rotate(.14rad);
+					 -o-transform: rotate(.14rad);
+					 -ms-transform: rotate(.14rad);
+					 transform: rotate(.14rad);
+           width: 21px;
+					 height: 24px;
+					 left: 50px;
+					 top: 14px;
+}
+
+#text1 .w3 {
+					 -moz-transform: rotate(.34rad);
+					 -webkit-transform: rotate(.34rad);
+					 -o-transform: rotate(.34rad);
+					 -ms-transform: rotate(.34rad);
+					 transform: rotate(.34rad);
+           width: 21px;
+					 height: 24px;
+					 left: 52px;
+					 top: 16px;
+}
+
+#text2 .w4 {
+					 -moz-transform: rotate(0.8rad);
+					 -webkit-transform: rotate(0.8rad);
+					 -o-transform: rotate(0.8rad);
+					 -ms-transform: rotate(0.8rad);
+					 transform: rotate(0.8rad);
+           width: 21px;
+					 height: 24px;
+					 left: -10px;
+					 top: 4px;
+}
+#text2 .w5 {
+					 -moz-transform: rotate(.65rad);
+					 -webkit-transform: rotate(.65rad);
+					 -o-transform: rotate(.65rad);
+					 -ms-transform: rotate(.65rad);
+					 transform: rotate(.65rad);
+           width: 21px;
+					 height: 24px;
+					 left: -2px;
+					 top: 10px;
+}
+#text2 .w6 {
+					 -moz-transform: rotate(.34rad);
+					 -webkit-transform: rotate(.34rad);
+					 -o-transform: rotate(.34rad);
+					 -ms-transform: rotate(.34rad);
+					 transform: rotate(.34rad);
+           width: 21px;
+					 height: 24px;
+					 left: 11px;
+					 top: 14px;
+}
+#text2 .w7 {
+					 -moz-transform: rotate(.34rad);
+					 -webkit-transform: rotate(.34rad);
+					 -o-transform: rotate(.34rad);
+					 -ms-transform: rotate(.34rad);
+					 transform: rotate(.34rad);
+           width: 21px;
+					 height: 24px;
+					 left: 52px;
+					 top: 16px;
+}
+#text2 .w8 {
+					 -moz-transform: rotate(-.25rad);
+					 -webkit-transform: rotate(-.25rad);
+					 -o-transform: rotate(-.25rad);
+					 -ms-transform: rotate(-.25rad);
+					 transform: rotate(-.25rad);
+           width: 21px;
+					 height: 24px;
+					 left: 38px;
+					 top: 11px;
+}
+#text2 .w9 {
+					 -moz-transform: rotate(-.38rad);
+					 -webkit-transform: rotate(-.38rad);
+					 -o-transform: rotate(-.38rad);
+					 -ms-transform: rotate(-.38rad);
+					 transform: rotate(-.38rad);
+           width: 21px;
+					 height: 24px;
+					 left: 48px;
+					 top: 7.5px;
+}
+#text2 .w10 {
+					 -moz-transform: rotate(-.43rad);
+					 -webkit-transform: rotate(-.43rad);
+					 -o-transform: rotate(-.43rad);
+					 -ms-transform: rotate(-.43rad);
+					 transform: rotate(-.43rad);
+           width: 21px;
+					 height: 24px;
+					 left: 55px;
+					 top: 4px;
+}
+#text2 .w11 {
+					 -moz-transform: rotate(-.48rad);
+					 -webkit-transform: rotate(-.48rad);
+					 -o-transform: rotate(-.48rad);
+					 -ms-transform: rotate(-.48rad);
+					 transform: rotate(-.48rad);
+           width: 21px;
+					 height: 24px;
+					 left: 60px;
+					 top: 1px;
+}
+#text2 .w12 {
+					 -moz-transform: rotate(-.56rad);
+					 -webkit-transform: rotate(-.56rad);
+					 -o-transform: rotate(-.56rad);
+					 -ms-transform: rotate(-.56rad);
+					 transform: rotate(-.56rad);
+           width: 21px;
+					 height: 24px;
+					 left: 67px;
+					 top: -4px;
+}
+
+
+#text1 .w13::before {
+  content: '';
+  height: 3px;
+  width: 3px;
+  background: #601279;
+  border-radius: 100%;
+  position: absolute;
+  top: 4px;
+  right: 19px;
+}
+
+#text1 .w14::after {
+  content: '';
+  height: 3px;
+  width: 3px;
+  background: #601279;
+  border-radius: 100%;
+  position: absolute;
+  top: 1px;
+  right: -9px;
+}
+
+#text2 .w17::before {
+  content: '';
+  height: 3px;
+  width: 3px;
+  background: #601279;
+  border-radius: 100%;
+  position: absolute;
+  top: 2px;
+  left: 5px;
+}
+
+#text2 .w18::after {
+  content: '';
+  height: 3px;
+  width: 3px;
+  background: #601279;
+  border-radius: 100%;
+  position: absolute;
+  top: 1px;
+  right: -66px;
+}
