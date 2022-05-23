@@ -184,48 +184,48 @@
 					 top: 11px;
 }
 #text2 .w8 {
-					 -moz-transform: rotate(-.20rad);
-					 -webkit-transform: rotate(-.20rad);
-					 -o-transform: rotate(-.20rad);
-					 -ms-transform: rotate(-.20rad);
-					 transform: rotate(-.20rad);
+					 -moz-transform: rotate(-.15rad);
+					 -webkit-transform: rotate(-.15rad);
+					 -o-transform: rotate(-.15rad);
+					 -ms-transform: rotate(-.15rad);
+					 transform: rotate(-.15rad);
            width: 21px;
 					 height: 24px;
 					 left: 36px;
-					 top: 11px;
+					 top: 12px;
 }
 #text2 .w9 {
-					 -moz-transform: rotate(-.36rad);
-					 -webkit-transform: rotate(-.36rad);
-					 -o-transform: rotate(-.36rad);
-					 -ms-transform: rotate(-.36rad);
-					 transform: rotate(-.36rad);
+					 -moz-transform: rotate(-.34rad);
+					 -webkit-transform: rotate(-.34rad);
+					 -o-transform: rotate(-.34rad);
+					 -ms-transform: rotate(-.34rad);
+					 transform: rotate(-.34rad);
            width: 21px;
 					 height: 24px;
 					 left: 46px;
-					 top: 7px;
+					 top: 8px;
 }
 #text2 .w10 {
-					 -moz-transform: rotate(-.43rad);
-					 -webkit-transform: rotate(-.43rad);
-					 -o-transform: rotate(-.43rad);
-					 -ms-transform: rotate(-.43rad);
-					 transform: rotate(-.43rad);
+					 -moz-transform: rotate(-.40rad);
+					 -webkit-transform: rotate(-.40rad);
+					 -o-transform: rotate(-.40rad);
+					 -ms-transform: rotate(-.40rad);
+					 transform: rotate(-.40rad);
            width: 21px;
 					 height: 24px;
 					 left: 53px;
-					 top: 4px;
+					 top: 5px;
 }
 #text2 .w11 {
-					 -moz-transform: rotate(-.48rad);
-					 -webkit-transform: rotate(-.48rad);
-					 -o-transform: rotate(-.48rad);
-					 -ms-transform: rotate(-.48rad);
-					 transform: rotate(-.48rad);
+					 -moz-transform: rotate(-.49rad);
+					 -webkit-transform: rotate(-.49rad);
+					 -o-transform: rotate(-.49rad);
+					 -ms-transform: rotate(-.49rad);
+					 transform: rotate(-.49rad);
            width: 21px;
 					 height: 24px;
 					 left: 58px;
-					 top: 1px;
+					 top: 2px;
 }
 #text2 .w12 {
 					 -moz-transform: rotate(-.56rad);
@@ -236,7 +236,7 @@
            width: 21px;
 					 height: 24px;
 					 left: 65px;
-					 top: -4px;
+					 top: -3px;
 }
 
 
@@ -258,7 +258,7 @@
   background: #601279;
   border-radius: 100%;
   position: absolute;
-  top: 1px;
+  top: 1.54x;
   right: -9px;
 }
 
@@ -280,6 +280,6 @@
   background: #601279;
   border-radius: 100%;
   position: absolute;
-  top: 1px;
+  top: 1.5px;
   right: -63px;
 }
