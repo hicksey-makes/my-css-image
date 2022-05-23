@@ -1,6 +1,6 @@
 .outer {
-  width: 96px;
-  height: 96px;
+  width: 100px;
+  height: 100px;
   background-color: #D4CEAF69;
   border-radius: 100px;
 }
@@ -9,11 +9,11 @@
   width: 100px;
   height: 100px;
   background: transparent;
-  background-image: url("data:image/svg+xml,%3csvg width='100%25' height='100%25' xmlns='http://www.w3.org/2000/svg'%3e%3crect width='100%25' height='100%25' fill='none' rx='100' ry='100' stroke='%23601279FF' stroke-width='4' stroke-dasharray='5%25%2c 8' stroke-dashoffset='84' stroke-linecap='square'/%3e%3c/svg%3e");
+  background-image: url("data:image/svg+xml,%3csvg width='100%25' height='100%25' xmlns='http://www.w3.org/2000/svg'%3e%3crect width='100%25' height='100%25' fill='none' rx='100' ry='100' stroke='%23601279FF' stroke-width='3' stroke-dasharray='7%2c 8%2c 10' stroke-dashoffset='86' stroke-linecap='round'/%3e%3c/svg%3e");
   border-radius: 100px;
   position: relative;
-  top: -2px;
-  right: 2px;
+  top: 0px;
+  right: 0px;
   /* background-color: black; */
   /* border-radius: 100%; */
   /* border: dashed 4px purple; */
